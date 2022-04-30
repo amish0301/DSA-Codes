@@ -2,7 +2,7 @@
 T.C = O(nlogn) , S.C = O(n)
 Approch:
     --> to do partition
-    --> Sort Left part (Bounded Belowby by pivotIndex) and Right part (Bounded above by pivotIndex) one by one
+    --> Sort Left part (Bounded Below by pivotIndex) and Right part (Bounded above by pivotIndex) one by one
 */
 
 #include <bits/stdc++.h>
